@@ -40,16 +40,6 @@
 ProjectWhat it does🧠 ATLASFully offline voice AI assistant — wake word detection, GPU-accelerated Whisper STT, neural TTS, fuzzy app launcher, local vision via LLaVA, and proactive reasoning📄 AI Job Application AgentEnd-to-end agentic pipeline — JD parsing → ATS scoring → resume rewrite → cover letter → PDF export. Cuts application prep from 45 min to under 3🩺 SkinSyncOn-device CNN skin analysis app — 88% accuracy, sub-300ms inference, zero cloud dependency
 
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samarth229&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=Samarth229&theme=radical&hide_border=true" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth229&layout=compact&theme=radical&hide_border=true" width="50%"/>
-</p>
-
 🌐 Connect
 
 <p align="center">
