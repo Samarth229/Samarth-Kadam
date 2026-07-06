@@ -35,10 +35,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-🔭 Featured Projects
+### 🔭 Featured Projects
 
-ProjectWhat it does🧠 ATLASFully offline voice AI assistant — wake word detection, GPU-accelerated Whisper STT, neural TTS, fuzzy app launcher, local vision via LLaVA, and proactive reasoning📄 AI Job Application AgentEnd-to-end agentic pipeline — JD parsing → ATS scoring → resume rewrite → cover letter → PDF export. Cuts application prep from 45 min to under 3🩺 SkinSyncOn-device CNN skin analysis app — 88% accuracy, sub-300ms inference, zero cloud dependency
-
+| Project | What it does |
+|---|---|
+| 🧠 [**ATLAS**](https://github.com/Samarth229/ATLAS-Adaptive-Thinking-and-Learning-Autonomous-System) | Fully offline voice AI assistant — wake word detection, GPU-accelerated Whisper STT, neural TTS, fuzzy app launcher, local vision via LLaVA, and proactive reasoning |
+| 📄 [**AI Job Application Agent**](https://github.com/Samarth229/AI-Job-Application-Agent) | End-to-end agentic pipeline — JD parsing → ATS scoring → resume rewrite → cover letter → PDF export. Cuts application prep from 45 min to under 3 |
+| 🩺 **SkinSync** | On-device CNN skin analysis app — 88% accuracy, sub-300ms inference, zero cloud dependency |
 
 🌐 Connect
 
